@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs
+/Lesson1/.vs/Lesson1/v16
+/Lesson1/obj
+/Lesson1/.vs/Lesson1/DesignTimeBuild
+/Lesson1/bin/Debug/net5.0
+/Lesson1_3/.vs/Lesson1_3
+/Lesson1_3/bin/Debug/net5.0
+/Lesson1_3/obj
